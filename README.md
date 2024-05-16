@@ -33,8 +33,8 @@ The response shall constitute JSON of the following structure:
 ```
 
 The public Kraken API might be used to retrieve the above LTP information
-https://docs.kraken.com/rest/#tag/Spot-Market-Data/operation/getTickerInformati
-on. (The information for last traded price is called “last trade closed”)
+[API Documentation](https://docs.kraken.com/rest/#tag/Spot-Market-Data/operation/getTickerInformation) 
+(The values of the last traded price is called “last trade closed”)
 
 # Requirements:
 1. Code shall be hosted in a remote public repository
